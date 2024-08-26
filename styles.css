@@ -7,7 +7,7 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: #f3f5fc;
+    background: #d1be13;
 }
 
 .texto {
@@ -17,7 +17,7 @@
     left: 12%;
     top: 15%;
     border: none;
-    font-family: "inter";
+    font-family: "Inter";
     font-style: normal;
     font-weight: 400;
     font-size: 32px;
@@ -53,7 +53,7 @@
     font-weight: 400;
     font-size: 12px;
     line-height: 150%;
-    color: #495057;
+    color: #ff4800;
     opacity: 0.8;
     flex: none;
     order: 1;
@@ -77,7 +77,7 @@
     padding: 2%;
     gap: 8px;
     width: 25%;
-    background-color: #0b88dd;
+    background-color: #dd0b27;
     border-radius: 24px;
     font-family: "inter";
     font-size: 18px;
@@ -96,14 +96,14 @@
     gap: 8%;
     width: 25%;
     background: #d8dfe8;
-    border: 1px solid #0a3871;
+    border: 1px solid #920d0d;
     border-radius: 24px;
     font-family: "inter";
     font-weight: 400;
     font-size: 18px;
     line-height: 19px;
     text-align: center;
-    color: #0a3871;
+    color: #dd0b27;
 }
 
 .btn-desencriptar:hover,
@@ -123,6 +123,7 @@
     top: 5%;
     background: #fff;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+    border-radius: 32px;
 }
 
 .mensaje-encriptado {
